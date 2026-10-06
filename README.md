@@ -2,8 +2,8 @@
 
 A small AI tool that reads app reviews written in **English or Hinglish** (Hindi words in English letters), finds the main problem in each review, and highlights the **exact words** it based that on, so a product manager can check every result against the source.
 
-![Languages found and main problems](screenshots/languages.png)
-![Result cards with highlighted proof](screenshots/results.png)
+![Languages found and main problems](languages.png)
+![Result cards with highlighted proof](results.png)
 
 ## Why I built it
 
